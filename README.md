@@ -1,1 +1,1 @@
-# desafio-numeros-primos
+Simular um fluxo de trabalho profissional no GitHub, onde um desenvolvedor implementa uma solução e um revisor avalia, comenta e aprova o código antes de integrá-lo ao projeto principal.# desafio-numeros-primos
